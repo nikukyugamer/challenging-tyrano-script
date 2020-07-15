@@ -1,2 +1,3 @@
-# challenging-tyrano-script
-Practice for TyranoScript
+# ティラノスクリプトの練習場
+- https://tyrano.jp/
+
